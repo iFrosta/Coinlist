@@ -16,4 +16,9 @@ let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelector
 let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=a=>new Promise(b=>setTimeout(b,a)),c=["Enjin","Polkadot","100M tokens","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room.","BTC, ETH, USDC, USDT","$0.20 per token, $500 limit","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","The user's account will be terminated and all purchases will be cancelled"];for(let d=0;d<a.length;d++)-1!==c.indexOf(a[d].textContent)&&(a[d].querySelectorAll(".c-input")[0].checked=!0),await b(50+Math.floor(103*Math.random())+1);console.log("Done")};run();
 ```
 
+## Swarm quiz
+```javascript
+let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=a=>new Promise(b=>setTimeout(b,a)),c=["Ethereum","Book of Swarm","Node operators","5,173,934 tokens","All tokens are allocated to Option 1 initially. If tokens remain after the Option 1 sale ends, the remaining tokens will roll over to the Option 2 sale","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room","BTC, ETH, USDC, USDT","Option 1: $1.92 per token, $500 limit. Option 2: $1.92 per token, $10,000 limit","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","The user's account will be terminated and all purchases will be cancelled"];for(let d=0;d<a.length;d++)-1!==c.indexOf(a[d].textContent)&&(a[d].querySelectorAll(".c-input")[0].checked=!0),await b(50+Math.floor(103*Math.random())+1);console.log("Done")};run();
+```
+
 2021
