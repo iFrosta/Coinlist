@@ -13,12 +13,12 @@ Made by @ifrosta [GitHub](https://github.com/iFrosta)
 
 ## Pay MAX with USDT (without submit)
 ```javascript
-let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox"),b=document.body.querySelector(".c-input"),c=document.body.querySelector(".u-colorGray6").textContent.trim().replace(/\$|,/g,"");c=c.split("\u2013").pop(),b.value=c,document.getElementById("investment_currency_usdt").click();for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();run();
+let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox"),b=document.body.querySelector(".c-input"),c=document.body.querySelector(".u-colorGray6").textContent.trim().replace(/\$|,/g,"");c=c.split("\u2013").pop(),b.value=c,document.getElementById("investment_currency_usdt").click();for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();
 ```
 
 ## Put checkmarks on pay page
 ```javascript
-let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox");for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();run();run();
+let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox");for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();
 ```
 
 ##
