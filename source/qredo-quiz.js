@@ -8,7 +8,7 @@ let run = async () => {
       'Option 1: Tokens unlock on or around September 8, 2021. Option 2: Tokens release linearly over 12 months starting from January 8, 2022',
       'BTC, ETH, USDC, USDT',
       'Option 1: $0.50 per token, $500 limit. Option 2: $0.225 per token, $1,000 limit',
-      'The user\'s purchase may be cancelled and the user may be banned from future CoinList sales',
+      ' The user\'s purchase may be cancelled and the user may be banned from future CoinList sales',
       'coinlistofficialchannel',
       'CoinList.co',
       'The user\'s account will be terminated and all purchases will be cancelled'
