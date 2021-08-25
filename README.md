@@ -9,13 +9,13 @@ Made by [@ifrosta](https://github.com/iFrosta)
 4. Wait for the code to execute
 5. Done 😉
 
-###❤️ Thank you for your support ERC20 | BEP20 (BSC) ```0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c```
+### ❤️ Thank you for your support ERC20 | BEP20 (BSC) ```0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c```
 
 # Quizzes
 
 ## [Immutable X](https://coinlist.co/immutable-x)
 ```javascript
-let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=["Option 1: 400,000; Option 2: 600,000","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room","Ethereum","NFT minting and trading","BTC, ETH, USDC, USDT","Option 1: $10 per token, $500 limit. Option 2: $15 per token, $500 limit","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","The user's account will be terminated and all purchases will be cancelled "];console.log("\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let c=0;c<a.length;c++)-1!==b.indexOf(a[c].textContent)&&(a[c].querySelectorAll(".c-input")[0].checked=!0);await(a=>new Promise(b=>setTimeout(b,a)))(200),document.getElementById("continue").click()};run();
+let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=document.body.querySelector(".js-submit"),c=["Option 1: 400,000; Option 2: 600,000","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room","Ethereum","NFT minting and trading","BTC, ETH, USDC, USDT","Option 1: $10 per token, $500 limit. Option 2: $15 per token, $500 limit","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","The user's account will be terminated and all purchases will be cancelled "];console.log("\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let b=0;b<a.length;b++)-1!==c.indexOf(a[b].textContent)&&(a[b].querySelectorAll(".c-input")[0].checked=!0);await(a=>new Promise(b=>setTimeout(b,a)))(200),b.click()};run();
 ```
 ## [EGL Genesis](https://coinlist.co/egl)
 ```javascript
@@ -44,7 +44,7 @@ let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelector
 ##
 ![preview](./source/img/preview.gif)
 
-## Pay MAX with USDT (without submit)
+## Pay MAX with USDT (with checkmarks && without submit)
 ```javascript
 let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox"),b=document.body.querySelector(".c-input"),c=document.body.querySelector(".u-colorGray6").textContent.trim().replace(/\$|,/g,"");c=c.split("\u2013").pop(),b.value=c,document.getElementById("investment_currency_usdt").click();for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();
 ```
