@@ -12,6 +12,7 @@ Made by [@ifrosta](https://github.com/iFrosta)
 ### ❤️ Thank you for your support 
 ### ERC20 | BEP20 (BSC) | Polygon | 0x ... ```0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c```
 ### Solana ```BBPVpU5oYUabTQqbpnZxdKppZRhsLRxmsjZRXNVrt1rv```
+### BTC ```3Ki3CPkFesp9yRwv4rAzaQTwFJu1eFrNvW```
 
 # Quizzes
 
