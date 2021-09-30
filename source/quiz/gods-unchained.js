@@ -23,7 +23,7 @@ let run = async () => {
   }
   
   await timeout(200)
-  document.getElementById('continue').click()
+  document.body.querySelector('.js-submit').click()
 }
 
 run()
