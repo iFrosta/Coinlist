@@ -1,4 +1,5 @@
 let run = async () => {
+  // https://github.com/iFrosta/Coinlist
   let input = document.body.querySelectorAll(".quiz")[0].querySelectorAll('.c-label--inline'),
     timeout = (ms) => new Promise(resolve => setTimeout(resolve, ms)),
     dict = [
