@@ -1,7 +1,7 @@
 ![CoinList](https://miro.medium.com/max/5130/1*4C_PJF6egn_WlO-Xn5N_Ag.png)
 Made by [@ifrosta](https://github.com/iFrosta)
 
-# [⚠️ USE THESE SCRIPTS AT YOUR OWN RISK ⚠️](./LICENSE)
+## [⚠️ USE THESE SCRIPTS AT YOUR OWN RISK ⚠️](./LICENSE)
 
 ## Instruction:
 1. Open browser console (F12)
@@ -9,13 +9,17 @@ Made by [@ifrosta](https://github.com/iFrosta)
 4. Wait for the code to execute
 5. Done 😉
 
-### ❤️ Thank you for your support 
-### ERC20 | BEP20 (BSC) | Polygon | 0x ... ```0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c```
-### Solana ```BBPVpU5oYUabTQqbpnZxdKppZRhsLRxmsjZRXNVrt1rv```
-### BTC ```3Ki3CPkFesp9yRwv4rAzaQTwFJu1eFrNvW```
+### ❤️ Thank you for your support
+### ```0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c``` ERC20 | BEP20 | Polygon
+### ```BBPVpU5oYUabTQqbpnZxdKppZRhsLRxmsjZRXNVrt1rv``` Solana
+### ```3Ki3CPkFesp9yRwv4rAzaQTwFJu1eFrNvW``` BTC
 
 # Quizzes
 
+## [Stader](https://coinlist.co/stader)
+```javascript
+let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=["6,000,000","Users in the waiting room will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts will be placed behind those in the waiting room","Option 1: $4.50 per token, $500 limit. Option 2: $3.33 per token, $500 limit","BTC, ETH, USDC, USDT, ALGO, SOL","Terra","Smart contract infrastructure for staking","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","coinlistofficialchannel","The user's account will be terminated and all purchases will be cancelled","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room"];console.log("\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let c=0;c<a.length;c++)-1!==b.indexOf(a[c].textContent)&&(a[c].querySelectorAll(".c-input")[0].checked=!0);await(a=>new Promise(b=>setTimeout(b,a)))(200),document.body.querySelector(".js-submit").click()};run();
+```
 ## [Agoric](https://coinlist.co/agoric)
 ```javascript
 let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=["Option 1: 36,000; Option 2: 16,250","Users in the waiting room will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts will be placed behind those in the waiting room","Option 1: Tokens unlock 6 months after the sale date on / around June 29, 2022, followed by a 12 month linear release. Option 2: Tokens unlock on/ around November 1, 2022, followed by a 12 month linear release.","BTC, ETH, USDC, USDT, SOL, ALGO","Option 1: $0.80 per token, $1000 limit. Option 2: $0.65 per token, $1000 limit","BTC, ETH, USDC, USDT","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","coinlistofficialchannel","The user's account will be terminated and all purchases will be cancelled"];console.log("\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let c=0;c<a.length;c++)-1!==b.indexOf(a[c].textContent)&&(a[c].querySelectorAll(".c-input")[0].checked=!0);await(a=>new Promise(b=>setTimeout(b,a)))(200),document.body.querySelector(".js-submit").click()};run();
@@ -75,17 +79,4 @@ let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelector
 ##
 ![preview](./source/img/preview.gif)
 
-## Pay MAX with USDT (with checkmarks && without submit)
-```javascript
-let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox"),b=document.body.querySelector(".c-input"),c=document.body.querySelector(".u-colorGray6").textContent.trim().replace(/\$|,/g,"");c=c.split("\u2013").pop(),b.value=c,document.getElementById("investment_currency_usdt").click();for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();
-```
-
-## Put checkmarks on pay page
-```javascript
-let run=async()=>{let a=document.body.querySelectorAll(".c-input--checkbox");for(let b=0;b<a.length;b++)a[b].checked=!0;console.log("Done\n\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c")};run();
-```
-
-##
-![preview](./source/img/preview-pay.gif)
-
-2021
+2021-2022
