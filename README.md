@@ -1,7 +1,7 @@
 ![CoinList](https://miro.medium.com/max/5130/1*4C_PJF6egn_WlO-Xn5N_Ag.png)
 Made by [@ifrosta](https://github.com/iFrosta)
 
-## [⚠️ USE THESE SCRIPTS AT YOUR OWN RISK ⚠️](./LICENSE)
+## [⚠️ USE AT YOUR OWN RISK](./LICENSE)
 
 ## Instruction:
 1. Open browser console (F12)
@@ -13,6 +13,9 @@ Made by [@ifrosta](https://github.com/iFrosta)
 ### ```0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c``` ERC20 | BEP20 | Polygon
 ### ```BBPVpU5oYUabTQqbpnZxdKppZRhsLRxmsjZRXNVrt1rv``` Solana
 ### ```3Ki3CPkFesp9yRwv4rAzaQTwFJu1eFrNvW``` BTC
+
+# [CoffeeList](https://t.me/+z9FiPTeuuMZjZjhi) extension
+![CoffeeList_11](./source/img/CoffeeList.png)
 
 # Quizzes
 
