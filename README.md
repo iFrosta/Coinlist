@@ -19,6 +19,10 @@ Made by [@ifrosta](https://github.com/iFrosta)
 
 # Quizzes
 
+## [Ondo](https://sales.coinlist.co/ondo)
+```javascript
+let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=["400,000,000","Users in the waiting room will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts will be placed behind those in the waiting room","BTC, ETH, USDC, USDT, SOL, ALGO","$0.055 per token, $2,000.00 limit","The user's purchase may be cancelled and the user may be banned from future CoinList sales","CoinList.co","coinlistofficialchannel","The user's account will be terminated and all purchases will be cancelled"];console.log("\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let c=0;c<a.length;c++)-1!==b.indexOf(a[c].textContent)&&(a[c].querySelectorAll(".c-input")[0].checked=!0);await(a=>new Promise(b=>setTimeout(b,a)))(200),document.body.querySelector(".js-submit").click()};run();
+```
 ## [Tribal](https://sales.coinlist.co/tribal)
 ```javascript
 let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),b=["64,066,667","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room","Tokens release on / around May 11, 2022, followed by a 9 mo linear release.","BTC, ETH, USDC, USDT, ALGO, SOL","Option 1: $0.55 per token, $500 limit. Option 2: $0.40 per token, $500 limit","The user's purchase may be canceled and the user may be banned from future CoinList sales","CoinList.co","The user's account will be terminated and all purchases will be canceled"];console.log("\u2764\uFE0F Thank you for your support ERC20 | BEP20 (BSC)\n0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let c=0;c<a.length;c++)-1!==b.indexOf(a[c].textContent)&&(a[c].querySelectorAll(".c-input")[0].checked=!0);await(a=>new Promise(b=>setTimeout(b,a)))(200),document.body.querySelector(".js-submit").click()};run();
