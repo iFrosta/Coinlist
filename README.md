@@ -1,7 +1,7 @@
 ![CoinList](https://miro.medium.com/max/5130/1*4C_PJF6egn_WlO-Xn5N_Ag.png)
-Made by [@ifrosta](https://github.com/iFrosta)
+by [@ifrosta](https://github.com/iFrosta)
 
-## [⚠️ USE AT YOUR OWN RISK](./LICENSE)
+## [USE AT YOUR OWN RISK](./LICENSE)
 
 ## Instruction:
 
@@ -12,17 +12,23 @@ Made by [@ifrosta](https://github.com/iFrosta)
 
 ### ❤️ Thank you for your support
 
-### ``0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c`` ERC20 | BEP20 | Polygon
+### ``0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c`` ERC20
 
 ### ``BBPVpU5oYUabTQqbpnZxdKppZRhsLRxmsjZRXNVrt1rv`` Solana
 
 ### ``3Ki3CPkFesp9yRwv4rAzaQTwFJu1eFrNvW`` BTC
 
-# [CoffeeList](https://t.me/+z9FiPTeuuMZjZjhi) extension
+# [CoffeeList](https://t.me/+z9FiPTeuuMZjZjhi) extension and more scripts inside
 
 ![CoffeeList_11](./source/img/CoffeeList.png)
 
 # Quizzes
+
+## [Neon](https://sales.coinlist.co/neon)
+
+```javascript
+let run=async()=>{let e=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),t=e=>new Promise(t=>setTimeout(t,e)),a=["50,000,000","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room","Neon is an EVM that allows Ethereum dApps to function within Solana","USDC, USDT","$0.10 per token, $500 max purchase amount","The user's purchase may be canceled and the user may be banned from future CoinList sales","CoinList.co","The user's account will be terminated and all purchases will be canceled"];console.log("❤️ Thank you for your support ERC20 0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let l=0;l<e.length;l++)-1!==a.indexOf(e[l].textContent)&&(e[l].querySelectorAll(".c-input")[0].checked=!0);await t(200),document.body.querySelector(".js-submit").click()};run();
+```
 
 ## [Cyberconnect](https://sales.coinlist.co/cyberconnect)
 
@@ -152,4 +158,4 @@ let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelector
 
 ![preview](./source/img/preview.gif)
 
-2021-2022
+2021-2023
