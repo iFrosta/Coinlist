@@ -24,6 +24,12 @@ by [@ifrosta](https://github.com/iFrosta)
 
 # Quizzes
 
+## [Archway](https://sales.coinlist.co/archway)
+
+```javascript
+let run=async()=>{let e=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),t=e=>new Promise(t=>setTimeout(t,e)),a=["30,000,000","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room","Archway is a Cosmos-native Layer 1 blockchain that allows developers to capture the value created by their dApps","USDC, USDT","$0.20 per token, $1000 max purchase amount","The user's purchase may be canceled and the user may be banned from future CoinList sales","CoinList.co","The user's purchase may be canceled and the user may be banned from future CoinList sales",];console.log("❤️ Thank you for your support ERC20 0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c");for(let r=0;r<e.length;r++)-1!==a.indexOf(e[r].textContent)&&(e[r].querySelectorAll(".c-input")[0].checked=!0);await t(200),document.body.querySelector(".js-submit").click()};run();
+```
+
 ## [Neon](https://sales.coinlist.co/neon)
 
 ```javascript
