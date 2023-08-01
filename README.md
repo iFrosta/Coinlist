@@ -1,9 +1,7 @@
 ![CoinList](https://miro.medium.com/max/5130/1*4C_PJF6egn_WlO-Xn5N_Ag.png)
 by [@ifrosta](https://github.com/iFrosta)
 
-## [USE AT YOUR OWN RISK](./LICENSE)
-
-## Instruction:
+## Instruction
 
 1. Open browser console (F12)
 2. Paste the code below
@@ -12,7 +10,7 @@ by [@ifrosta](https://github.com/iFrosta)
 
 ### ❤️ Thank you for your support
 
-### ``0x8e6a359C05a8ab21409F74ec175Fb0C5ee4CF38c`` ERC20
+### ``0xbB86A17094a1D03eF12418F63C9e0dd28BC511e1`` ERC20
 
 ### ``BBPVpU5oYUabTQqbpnZxdKppZRhsLRxmsjZRXNVrt1rv`` Solana
 
@@ -23,6 +21,12 @@ by [@ifrosta](https://github.com/iFrosta)
 ![CoffeeList_11](./source/img/CoffeeList.png)
 
 # Quizzes
+
+## [Chainflip](https://sales.coinlist.co/chainflip)
+
+```javascript
+let run=async()=>{let e=document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),t=["4,500,000 FLIP tokens","Users in the waiting room for the sale will be given a random spot in the queue when the sale starts. Users who arrive after the sale starts for the sale will be placed behind those in the waiting room.","Chainflip is a decentralized, trustless protocol that enables cross chain swaps between different blockchains.","USDC, USDT","$1.83 per token, max purchase of $4,000.00","I must fund my intended purchase amount before the sale starts. I will need to have the full amount of funds in my CoinList wallet at the time of making a purchase during the sale.","CoinList.co","The user's account will be terminated and all purchases will be canceled."];console.log("❤️ Thank you for your support ERC20 0xbB86A17094a1D03eF12418F63C9e0dd28BC511e1");for(let l=0;l<e.length;l++)-1!==t.indexOf(e[l].textContent)&&(e[l].querySelectorAll(".c-input")[0].checked=!0);var l;await(l=200,new Promise((e=>setTimeout(e,l)))),document.body.querySelector(".js-submit").click()};run();
+```
 
 ## [Archway](https://sales.coinlist.co/archway)
 
@@ -163,5 +167,7 @@ let run=async()=>{let a=document.body.querySelectorAll(".quiz")[0].querySelector
 ```
 
 ![preview](./source/img/preview.gif)
+
+### [USE AT YOUR OWN RISK](./LICENSE)
 
 2021-2023
